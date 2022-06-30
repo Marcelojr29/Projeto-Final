@@ -23,7 +23,7 @@
         <li><a href="">CARRINHO</a>  |</li>
         <li><a href="">SOSBRE O PROJETO</a>  |</li>
         <li><a href="">CONTATO</a>  </li>
-        <li id="login"><a href="">ENTRAR</a></li>
+        <li id="login"><a href="Login.php">ENTRAR</a></li>
        </ul>
     </div>
 <div class="laranja">
